@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'beautiful_ui/main.dart';
+import 'baby_names//main.dart';
 
-void main() => runApp(FriendlychatApp());
+void main() => runApp(BabyVotesApp());
